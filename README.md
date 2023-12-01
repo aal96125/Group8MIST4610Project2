@@ -13,10 +13,12 @@
 # Dataset Description 
 
 # Questions
-1. How many middle schoolers from 1999-2017 in each state claim to use smokeless tobacco products? 
+1. How many middle schoolers from 1999-2017 in each state claim to use smokeless tobacco products?
+   
 Monitoring usage over an extended period (1999-2017) allows for the analysis of trends and the effectiveness of past public health interventions. It also provides a valuable dataset for academic and medical research into the effects of early tobacco use.
 
-2. Does gender play a role in using vs quitting tobacco use in youth across America?
+3. Does gender play a role in using vs quitting tobacco use in youth across America?
+   
 Gender-specific patterns in tobacco use and cessation can have significant implications for public health. If one gender is more susceptible to starting or less likely to quit tobacco, targeted interventions can be developed to address these disparities. Understanding these patterns helps in designing gender-sensitive prevention and cessation programs, which are more effective in reducing tobacco use among young people.
 
 # Manipulations Applied to the Data
