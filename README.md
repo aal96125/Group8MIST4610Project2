@@ -11,7 +11,7 @@
 5. Aiman Lalani [@aal96125](https://github.com/aal96125)
 
 # Dataset Description 
-Our data set was obtained from data.gov and contains 31 columns and 10,601 rows. The columns were Year, LocationAbbr, LocationDesc, TopicType, TopicDesc, MeasureDesc, DataSource, Response, Data_Value_Unit, Data_Value_Type, Data_Value, Data_Value_Footnote_Symbol, Data_Value_Footnote, Data_Value_Std_Err, Low_Confidence_Limit, High_Confidence_Limit, Sample_Size, Gender, Race, Age, Education, GeoLocation, TopicTypeId, TopicId, MeasureId, StratificationID1, StratificationID2, StarificationID3, StratificationID4, SubMeasureID, and DisplayOrder. 
+
 
 # Questions
 1. How many middle schoolers from 1999-2017 in each state claim to use smokeless tobacco products?
