@@ -56,5 +56,3 @@ Our first visual shows the number of middle schoolers by state who use smokeless
 
 Our second visual compares tobacco use vs cessation by gender from 1999-2017. Tobacco use and cessation rate are both declining in this time period, following peaks in 2002. females are quitting at a higher rate than males. On the other hand, males are using tobacco more than females. The price of cigarettes increased approximately by 88% in 1997-2002. However the spending on tobacco industry marketing doubled which reduced the impact of public health campaigns. 
 
-
-# Tableau Packaged Workbook 
